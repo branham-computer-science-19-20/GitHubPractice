@@ -17,10 +17,12 @@ public class HelloTeam {
 		System.out.println("Minhtam Cao");
 		System.out.println("Sabrina Pan");
 		System.out.println("Chantal Wang");
-    System.out.println("Hola mi llamo Eric");
-    System.out.println("Alex Goldberg is here! Lock the doors!");
-    System.out.println("Hello, Jada!");
-    System.out.println("Hello, Geetanjali!");
+    		System.out.println("Hola mi llamo Eric");
+   		System.out.println("Alex Goldberg is here! Lock the doors!");
+   		System.out.println("Hello, Jada!");
+   		System.out.println("Hello, Geetanjali!");
+    		System.out.println("Isaiah");
+    		System.out.println("Yuji Sakaguchi");
 	}
 
 }
