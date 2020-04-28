@@ -1,4 +1,3 @@
-
 public class HelloTeam {
 
 	public static void main(String[] args) {
@@ -15,6 +14,18 @@ public class HelloTeam {
 		Sysmte.out.println("Aaron Ahmed");
 		System.out.println("Blake Shin");
 		System.out.println("Jaiveer Singh");
+		System.out.println("Minhtam Cao");
+		System.out.println("Sabrina Pan");
+		System.out.println("Chantal Wang");
+    System.out.println("Hola mi llamo Eric");
+    System.out.println("Alex Goldberg is here! Lock the doors!");
+    System.out.println("Hello, Jada!");
+    System.out.println("Hello, Geetanjali!");
+    System.out.println("Chantal was here");
+    System.out.println("Aaron Ahmed swag");
+    System.out.println("Isaiah");
+    System.out.println("Yuji Sakaguchi");
+    System.out.println("Jaiveer Singh");
 		System.out.println("Joseph Nguyen"); 
 	}
 
