@@ -23,6 +23,8 @@ public class HelloTeam {
     System.out.println("Hello, Geetanjali!");
     System.out.println("Chantal was here");
     System.out.println("Aaron Ahmed swag");
+    System.out.println("Isaiah");
+    System.out.println("Yuji Sakaguchi");
 	}
 
 }
