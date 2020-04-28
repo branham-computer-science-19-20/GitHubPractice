@@ -1,3 +1,5 @@
+
+
 public class HelloTeam {
 
 	public static void main(String[] args) {
@@ -18,6 +20,7 @@ public class HelloTeam {
 		System.out.println("Sabrina Pan");
 		System.out.println("Chantal Wang");
     System.out.println("Hola mi llamo Eric");
+    System.out.println("Alex Goldberg is here! Lock the doors!");
 	}
 
 }
