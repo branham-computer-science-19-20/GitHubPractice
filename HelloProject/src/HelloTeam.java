@@ -21,7 +21,6 @@ public class HelloTeam {
     System.out.println("Alex Goldberg is here! Lock the doors!");
     System.out.println("Hello, Jada!");
     System.out.println("Hello, Geetanjali!");
-    System.out.println("Isaiah");
 	}
 
 }
