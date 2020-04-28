@@ -1,4 +1,3 @@
-
 public class HelloTeam {
 
 	public static void main(String[] args) {
@@ -18,6 +17,7 @@ public class HelloTeam {
 		System.out.println("Minhtam Cao");
 		System.out.println("Sabrina Pan");
 		System.out.println("Chantal Wang");
+    System.out.println("Hola mi llamo Eric");
 	}
 
 }
