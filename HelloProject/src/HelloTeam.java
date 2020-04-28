@@ -7,10 +7,7 @@ public class HelloTeam {
 		System.out.println("Hello, Branham!");
 		System.out.println("Hello students!");
 		System.out.println("Salutations to Mr. Turner's new room J205!");
-		System.out.println("Aayushi Neema");
-		System.out.println("Anna Ha");
-		System.out.println("Brian Zhao");
-		System.out.println("Tarang Lunawat");
+		System.out.println("Hello, Kai!");
 	}
 
 }
