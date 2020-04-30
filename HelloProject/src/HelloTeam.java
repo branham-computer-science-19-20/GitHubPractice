@@ -27,6 +27,7 @@ public class HelloTeam {
     System.out.println("Isaiah");
     System.out.println("Yuji Sakaguchi");
     System.out.println("Jaiveer Singh");
-		System.out.println("Joseph Nguyen"); 
+		System.out.println("Joseph Nguyen");
+		System.out.println("Shubham More");
 	}
 }
